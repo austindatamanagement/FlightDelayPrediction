@@ -27,7 +27,6 @@ Please use SQL Developer version 18.3 or later as this version contains enhancem
 ## Part 1. Connect SQL Developer to the ADW Instance
 In this section you will connect the SQL Developer to the ADW instance that you provisioned in Lab 100.
 
-
 ### **STEP 1: Download the Connection Wallet**
 As ADW only accepts secure connections to the database, you need to download a wallet file containing your credentials first. The wallet can be downloaded either from the instance's details page, or from the ADW service console. In this case, we will be showing you how to download the wallet file from the instance's details page.
 
@@ -43,7 +42,6 @@ As ADW only accepts secure connections to the database, you need to download a w
 *Note: If you are prevented from downloading your Connection Wallet, it may be due to your browser's pop-blocker. Please disable it or create an exception for Oracle Cloud domains.*
 
 ![](./images/200/Picture200-16.jpg)
-
 
 ### **STEP 2: Connect to the Database using SQL Developer**
 Start SQL Developer and create a connection for your database using the default administrator account 'ADMIN' by following these steps.
