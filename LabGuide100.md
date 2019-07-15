@@ -20,7 +20,7 @@ This is the first of several labs that are part of the **Predicting Flight Delay
 
 ## Part 1. Provisioning an ADW Instance
 
-
+In this section, you will be provisioning an ADW instance using the cloud console.
 
 ### **STEP 1: Sign in to Oracle Cloud**
 
