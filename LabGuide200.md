@@ -129,7 +129,7 @@ On Step 2 of the Import Wizard, you control the import method and parameters. Le
 
 ## Part 4. Grant Privileges to the OML User to Access All Datasets
 
-### STEP 6: Grant Privileges to the OML User to Access All Datasets
+### **STEP 6: Grant Privileges to the OML User to Access All Datasets**
 
 -   Copy and paste [this code snippet](./files/scripts/grant_Privileges.sql) to a SQL Developer worksheet and run the script. This code is to grant privileges to the OML User (**omluser1**) which we created on previous lab. 
 
