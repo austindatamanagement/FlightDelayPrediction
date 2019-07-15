@@ -42,7 +42,7 @@ This lab walks you through the steps to build a linear regression model in Oracl
 ![](./images/400/Picture400-2.jpeg)
 
 
-### **STEP 2: Import Notebook File (Flight Delay Predictino.json) to OML**
+### **STEP 2: Import Notebook File (Flight Delay Prediction.json) to OML**
 
 - Once you have successfully signed in to OML the application home page will be displayed. Let's click **Notebooks**. 
 
