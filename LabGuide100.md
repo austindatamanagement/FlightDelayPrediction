@@ -20,9 +20,7 @@ This is the first of several labs that are part of the **Predicting Flight Delay
 
 ## Part 1. Provisioning an ADW Instance
 
-
 In this section, you will be provisioning an ADW instance using the cloud console.
-
 
 ### **STEP 1: Sign in to Oracle Cloud**
 
@@ -79,7 +77,7 @@ In this section, you will be provisioning an ADW instance using the cloud consol
 
 ## Part 2. Creating OML Users
 
-### **STEP 3: Creating OML Users**
+### STEP 3: Creating OML Users
 
 - Click the **Service Console** button on your Autonomous Data Warehouse details page.
 
