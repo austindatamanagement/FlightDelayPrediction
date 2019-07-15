@@ -76,7 +76,7 @@ In this section, you will be provisioning an ADW instance using the cloud consol
 
 
 ## Part 2. Creating OML Users
-### STEP 3: Creating OML Users
+### **STEP 3: Creating OML Users**
 
 - Click the **Service Console** button on your Autonomous Data Warehouse details page.
 
