@@ -30,7 +30,7 @@
                 "number": "300",
                 "filename": "LabGuide300.md",
                 "title": "Lab 300: Building Machine Learning Models in Oracle Analytics Cloud (OAC)",
-                "description": "This lab walks you through the steps to provision an Oracle Analytics Cloud (OAC) instance and connect it to the instance of ADW you created. In addition, we will demonstrate how to build machine learning models and how to find out which model fits flight delay prediction the best in OAC which is "no-code" development platform."
+                "description": "This lab walks you through the steps to provision an Oracle Analytics Cloud (OAC) instance and connect it to the instance of ADW you created. In addition, we will demonstrate how to build machine learning models and how to find out which model fits flight delay prediction the best in OAC which is no-code development platform."
             },
             {
                 "number": "400",
